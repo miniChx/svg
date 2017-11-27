@@ -1,0 +1,4 @@
+- stroke
+- stroke-width
+- stroke-linecap
+- stroke-dasharray
